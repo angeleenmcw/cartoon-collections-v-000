@@ -15,6 +15,6 @@ end
 def find_the_cheese(array)
  cheddar_types = ["cheddar","gouda","pepper jack","parmesian"]
  array.each do |cheese| 
-   
+   if cheese
  
   
